@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto foi pensado e desenvolvido como forma de apresentar o desempenho durante o Curso Discover.
+Este projeto foi pensado e desenvolvido como forma de apresentar o desempenho durante o Curso Discover. Como meu primeiro trabalho, tenho orgulho de dizer que estou me desenvolvendo em tecnologias que me desafiam a aprender todos os dias.
 
 ## 🔖 Layout
 
@@ -45,4 +45,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+By Willian Andrade and Rocketseat 
