@@ -22,7 +22,7 @@ Trabalho desenvolvido durante o curso promovido pela Rocketseat
   <img alt="Projeto-Rocketseat" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀  Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -31,15 +31,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 - Git e Github
 
-## 💻 Projeto
+## 💻  Projeto
 
 Este projeto foi pensado e desenvolvido como forma de apresentar o desempenho durante o Curso Discover. Como meu primeiro trabalho, tenho orgulho de dizer que estou me desenvolvendo em tecnologias que me desafiam a aprender todos os dias.
 
-## 🔖 Layout
+## 🔖  Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## 📝 Licença
+## 📝  Licença
 
 Esse projeto está sob a licença MIT.
 
